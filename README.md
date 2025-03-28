@@ -1,15 +1,15 @@
-# 🌟 个人简介
+# 🌟 About Me
 
-你好！我是 **Yao Yiyang**，一名热衷于软件开发与数据分析的工程师，目前在 **SIMTech** 工作，并且是 **新加坡国立大学 (NUS)** 研究生文凭 (Graduate Diploma in Systems Analysis) 项目的学生。
+Hi there! I'm **Yao Yiyang**, a passionate software engineer currently working at **SIMTech** and pursuing a **Graduate Diploma in Systems Analysis** at **National University of Singapore (NUS)**.
 
-💻 **专注领域：**
-- 🏗 **软件开发**：Java, Spring Boot, Kotlin, Python, ASP.NET, C#
-- 🌐 **Web 开发**：HTML, CSS, JavaScript, ReactJS, TypeScript
-- ☁ **云计算 & DevOps**：AWS, Docker, GitHub Actions, CI/CD, DevSecOps
-- 📊 **数据分析**：MySQL, PostgreSQL, NumPy, Pandas, Matplotlib, Seaborn, 机器学习 (Regression, Classification, Clustering, Neural Networks)
-- 📈 **系统分析 & 设计**：Use-case diagram, Activity diagram, Sequence diagram, Class diagram, ERD, OOP
+💻 **Technical Focus:**
+- 🏗 **Software Development**: Java, Spring Boot, Kotlin, Python, ASP.NET, C#
+- 🌐 **Web Development**: HTML, CSS, JavaScript, ReactJS, TypeScript
+- ☁ **Cloud & DevOps**: AWS, Docker, GitHub Actions, CI/CD, DevSecOps
+- 📊 **Data Analytics**: MySQL, PostgreSQL, NumPy, Pandas, Matplotlib, Seaborn, Machine Learning (Regression, Classification, Clustering, Neural Networks)
+- 📈 **Systems Analysis & Design**: Use-case diagram, Activity diagram, Sequence diagram, Class diagram, ERD, OOP
 
-📫 **联系我：** e1349011@u.nus.edu 
+📫 **Contact Me:** e1349011@u.nus.edu  
 
 ---
 
@@ -26,12 +26,13 @@
 ## ⚙ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,kotlin,postgres,docker,github,aws,python,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,kotlin,python,cs,dotnet,aws,docker,github,postgres,mysql,html,css,js,ts,git" />
+  <img src="https://skillicons.dev/icons?i=linux,vscode,figma,githubactions,selenium" />
 </p>
 
 ---
 
-## 🏆 GitHub 统计
+## 🏆 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=13716782929&show_icons=true&theme=radical" />
@@ -51,37 +52,40 @@
 
 ---
 
-## 📂 个人项目
+## 📂 Personal Projects
 
-### 🚀 旅行预订系统
-- **技术栈**：Spring Boot, React, PostgreSQL
-- **功能**：支持用户在线预订、管理行程、支付集成等
-- [🔗 项目链接](#) | [📜 详细文档](#)
+### 🚀 Travel Booking System
+- **Tech Stack**: Spring Boot, React, PostgreSQL
+- **Features**: Online booking, itinerary management, payment integration
+- [🔗 Project Link (Android)](https://github.com/13716782929/Travel-plateform-frontend--Android)  
+- [🔗 Project Link (Web)](https://github.com/13716782929/Travel-plateform-frontend-web)  
+- [🔗 Project Link (Backend)](https://github.com/13716782929/Travel-platform-backend)  
 
-### 🛒 电子商务购物车系统
-- **技术栈**：Java, Spring Boot, React, MySQL
-- **功能**：购物车管理、订单处理、用户评论系统等
-- [🔗 项目链接](#) | [📜 详细文档](#)
+### 🛒 E-Commerce Shopping Cart System
+- **Tech Stack**: Java, Spring Boot, React, MySQL
+- **Features**: Shopping cart management, order processing, user reviews
+- [🔗 Project Link (Frontend)](https://github.com/13716782929/ShoppingCart-frontend)  
+- [🔗 Project Link (Backend)](https://github.com/13716782929/ShoppingCart-backend)  
 
-### 🎮 Android 记忆游戏
-- **技术栈**：Kotlin, .NET, Firebase
-- **功能**：用户身份验证、动态图片加载、匹配游戏机制、排行榜
-- [🔗 项目链接](#) | [📜 详细文档](#)
+### 🎮 Android Memory Game
+- **Tech Stack**: Kotlin, .NET, Firebase
+- **Features**: User authentication, dynamic image loading, matching game mechanics, leaderboard
+- [🔗 Project Link (Frontend)](https://github.com/13716782929/The-Memory-Game)  
+- [🔗 Project Link (Backend)](https://github.com/13716782929/The-Memory-Game-backend)  
 
-### 🖼️ AI 图像分类器
-- **技术栈**：Python, CNN, TensorFlow, Keras, Matplotlib
-- **功能**：数据预处理、模型训练、分类预测、混淆矩阵可视化
-- [🔗 项目链接](#) | [📜 详细文档](#)
-
-
----
-
-## 🎯 目标 & 规划
-
-✅ 学习并实践 CI/CD 部署  
-🔲 深入研究 AI & LLM 在软件开发中的应用  
-🔲 学习大型项目的数据库管理
+### 🖼️ AI Image Classifier
+- **Tech Stack**: Python, CNN, TensorFlow, Keras, Matplotlib
+- **Features**: Data preprocessing, model training, classification prediction, confusion matrix visualization
+- [🔗 Project Link](https://github.com/13716782929/Image-Classifier-Project)
 
 ---
 
-**感谢你的访问！如果你觉得我的项目和内容有帮助，欢迎 ⭐Star 我的仓库！😊**
+## 🎯 Goals & Future Plans
+
+✅ Learn and implement CI/CD deployment  
+🔲 Explore AI & LLM applications in software development  
+🔲 Master database management for large-scale projects  
+
+---
+
+**Thank you for visiting! If you find my projects and content helpful, feel free to ⭐Star my repositories! 😊**
